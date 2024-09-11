@@ -1,8 +1,6 @@
 # Welcome to [Ankur Nagila]'s GitHub Profile
 
 
-## About Me
-
 Hi there! I'm Ankur Nagila, a Member of the Technical Staff with a passion for Android and Java backend. I love working on projects that involve new things to learn , and I'm always eager to learn new things and tackle interesting challenges.
 
 ## 🚀 Skills
@@ -26,7 +24,7 @@ Hi there! I'm Ankur Nagila, a Member of the Technical Staff with a passion for A
 
 ## 📚 Learning and Development
 
-I'm currently focused on learning more about Android or Java Backend  and am exploring Docker, Kubernetics and etc. Feel free to check out my repositories and get in touch if you'd like to collaborate on something exciting!
+I'm currently focused on learning more about Android or Java Backend and am exploring Docker, Kubernetics and etc. Feel free to check out my repositories and get in touch if you'd like to collaborate on something exciting!
 
 ---
 
