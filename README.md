@@ -3,32 +3,28 @@
   <!-- LinkedIn -->
   <span style="display:inline-block; text-align:center; margin: 0 20px;">
     <a href="https://www.linkedin.com/in/ankur-nagila-3bbb91185/">
-      <img height="32" src="https://skillicons.dev/icons?i=linkedin" /><br/>
-      <sub><b>LinkedIn</b></sub>
+      <img height="32" src="https://skillicons.dev/icons?i=linkedin" />
     </a>
   </span>
 
   <!-- X -->
   <span style="display:inline-block; text-align:center; margin: 0 20px;">
     <a href="https://x.com/n06dey">
-      <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" /><br/>
-      <sub><b>X</b></sub>
+      <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />
     </a>
   </span>
 
   <!-- Email -->
   <span style="display:inline-block; text-align:center; margin: 0 20px;">
     <a href="mailto:ankurnagila@gmail.com">
-      <img height="32" src="https://skillicons.dev/icons?i=gmail" /><br/>
-      <sub><b>Email</b></sub>
+      <img height="32" src="https://skillicons.dev/icons?i=gmail" />
     </a>
   </span>
 
   <!-- GitHub -->
   <span style="display:inline-block; text-align:center; margin: 0 20px;">
     <a href="https://github.com/ankurnagila">
-      <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" /><br/>
-      <sub><b>GitHub</b></sub>
+      <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
     </a>
   </span>
 
