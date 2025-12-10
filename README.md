@@ -1,38 +1,28 @@
 <p align="center">
-
-  <!-- LinkedIn -->
   <span style="display: inline-block; text-align: center; margin: 0 20px;">
     <a href="https://www.linkedin.com/in/ankur-nagila-3bbb91185/">
       <img height="40" src="https://skillicons.dev/icons?i=linkedin" /><br/>
       <sub><b>LinkedIn</b></sub>
     </a>
   </span>
-
-  <!-- X (New Logo) -->
   <span style="display: inline-block; text-align: center; margin: 0 20px;">
     <a href="https://x.com/n06dey">
-      <img height="40" src="https://skillicons.dev/icons?i=twitter" />
-<br/>
+      <img height="40" src="https://skillicons.dev/icons?i=twitter" /><br/>
       <sub><b>X</b></sub>
     </a>
   </span>
-
-  <!-- Email -->
   <span style="display: inline-block; text-align: center; margin: 0 20px;">
     <a href="mailto:ankurnagila@gmail.com">
       <img height="40" src="https://skillicons.dev/icons?i=gmail" /><br/>
       <sub><b>Email</b></sub>
     </a>
   </span>
-
-  <!-- GitHub -->
   <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <a href="https://github.com/ankurnagila">
+    <a href="https://github.com/ANkurNagila">
       <img height="40" src="https://skillicons.dev/icons?i=github" /><br/>
       <sub><b>GitHub</b></sub>
     </a>
   </span>
-
 </p>
 
 
