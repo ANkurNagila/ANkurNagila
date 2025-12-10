@@ -1,29 +1,25 @@
 <p align="center">
-  <span style="display:inline-block; text-align:center; margin: 0 40px;">
+  <span style="display:inline-block;">
     <a href="https://www.linkedin.com/in/ankur-nagila-3bbb91185/">
-      <img height="32" src="https://skillicons.dev/icons?i=linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
   </span>
-  
-  <span style="display:inline-block; text-align:center; margin: 0 40px;">
+  <span style="display:inline-block; margin-left:10px;">
     <a href="https://x.com/n06dey">
-      <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" />
+      <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"/>
     </a>
   </span>
-
-  <span style="display:inline-block; text-align:center; margin: 0 40px;">
+  <span style="display:inline-block; margin-left:10px;">
     <a href="mailto:ankurnagila@gmail.com">
-      <img height="32" src="https://skillicons.dev/icons?i=gmail" />
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
     </a>
   </span>
-  <span style="display:inline-block; text-align:center; margin: 0 40px;">
+  <span style="display:inline-block; margin-left:10px;">
     <a href="https://github.com/ankurnagila">
-      <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" />
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
     </a>
   </span>
-
 </p>
-
 
 
 Hi! I'm Ankur, an Android Developer passionate about building scalable, high-performance mobile applications and exploring backend technologies. I love designing clean architectures, writing maintainable code, and continuously improving my craft.
