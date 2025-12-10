@@ -1,29 +1,39 @@
 <p align="center">
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
+
+  <!-- LinkedIn -->
+  <span style="display:inline-block; text-align:center; margin: 0 20px;">
     <a href="https://www.linkedin.com/in/ankur-nagila-3bbb91185/">
-      <img height="40" src="https://skillicons.dev/icons?i=linkedin" /><br/>
+      <img height="32" src="https://skillicons.dev/icons?i=linkedin" /><br/>
       <sub><b>LinkedIn</b></sub>
     </a>
   </span>
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
+
+  <!-- X -->
+  <span style="display:inline-block; text-align:center; margin: 0 20px;">
     <a href="https://x.com/n06dey">
-      <img height="40" src="https://skillicons.dev/icons?i=twitter" /><br/>
+      <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" /><br/>
       <sub><b>X</b></sub>
     </a>
   </span>
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
+
+  <!-- Email -->
+  <span style="display:inline-block; text-align:center; margin: 0 20px;">
     <a href="mailto:ankurnagila@gmail.com">
-      <img height="40" src="https://skillicons.dev/icons?i=gmail" /><br/>
+      <img height="32" src="https://skillicons.dev/icons?i=gmail" /><br/>
       <sub><b>Email</b></sub>
     </a>
   </span>
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <a href="https://github.com/ANkurNagila">
-      <img height="40" src="https://skillicons.dev/icons?i=github" /><br/>
+
+  <!-- GitHub -->
+  <span style="display:inline-block; text-align:center; margin: 0 20px;">
+    <a href="https://github.com/ankurnagila">
+      <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" /><br/>
       <sub><b>GitHub</b></sub>
     </a>
   </span>
+
 </p>
+
 
 
 Hi! I'm Ankur, an Android Developer passionate about building scalable, high-performance mobile applications and exploring backend technologies. I love designing clean architectures, writing maintainable code, and continuously improving my craft.
@@ -143,7 +153,7 @@ Hi! I'm Ankur, an Android Developer passionate about building scalable, high-per
 
 ## 📚 Learning and Development
  - **Advanced Android** : (Coroutines, Flows, Compose, Dagger, AI Engagement)
- - **Backend** : (Spring Boot - Kotlin)
+ - **Backend** : (Spring Boot - Kotlin)</br>
 I’m always open to collaboration, discussions, and exciting project ideas — feel free to reach out!
 
 ---
